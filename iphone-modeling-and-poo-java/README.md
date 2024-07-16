@@ -2,9 +2,16 @@
 
 <br />
 
+<p>Modelagem e construção de programa em Java, baseado na geração revolucionária de 
+smartphones pelo toque, unificando as funcionalidades de Navegador, Player Multimídia e 
+Telefone num único aparelho que cabe na palma da mão.
+</p>
+
+<br />
+
 <h2>Regras do Desafio</h2>
 
-* [Arquivo do Desafio](./Desafio.md)
+* [Arquivo do Desafio](./POO-DESAFIO.md)
 
 <br />
 
@@ -12,30 +19,29 @@
 
 ```mermaid
 classDiagram
-
-    class ReprodutorMusical {
-        +iniciarMusica()
-        +pausarMusica()
-        +tocarMusicaSeguinte()
-        +tocarMusicaAnterior()
+    class ReprodutorMultimidia {
+        +tocar()
+        +pausar()
+        +selecionarMusica(String musica)
     }
 
-    class Telefone {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
+    class ChamadaAudio {
+        +ligar(String numero)
+        +atender()
+        +iniciarCorreioVoz()
     }
 
     class NavegadorInternet {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
+        +exibirPagina(String url)
+        +adicionarNovaAba()
+        +atualizarPagina()
     }
 
     class iPhone {
-        
     }
 
-    iPhone --> ReprodutorMusical
-    iPhone --> Telefone
+    iPhone --> ReprodutorMultimidia
+    iPhone --> ChamadaAudio
     iPhone --> NavegadorInternet
 ```
 

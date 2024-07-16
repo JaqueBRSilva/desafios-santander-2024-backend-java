@@ -31,7 +31,7 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 ```mermaid
 classDiagram
 
-    class ReprodutorMusical {
+    class ReprodutorMultimidia {
         +exemploMetodo1()
         +exemploMetodo2(String exemplo)
     }
@@ -49,7 +49,7 @@ classDiagram
     class iPhone {
     }
 
-    iPhone --> ReprodutorMusical
+    iPhone --> ReprodutorMultimidia
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
 ```
