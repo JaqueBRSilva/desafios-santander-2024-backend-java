@@ -2,7 +2,7 @@
 
 <br />
 
-<p>Modelagem e construção de programa em Java, baseado na geração revolucionária de 
+<p>Modelagem e construção de programa em Java, baseado no marco histórico da geração de 
 smartphones pelo toque, unificando as funcionalidades de Navegador, Player Multimídia e 
 Telefone num único aparelho que cabe na palma da mão.
 </p>
