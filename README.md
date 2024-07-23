@@ -20,19 +20,19 @@
 
 <ul>
     <li>
-        <a src="./simple-bank-account-java" target="_blank">
+        <a href="./simple-bank-account-java" target="_blank">
             Simulando Uma Conta Bancária Através Do Terminal/Console 
         </a>
     </li>
     <br />
     <li>
-        <a src="./processo-seletivo-candidatos" target="_blank">
+        <a href="./processo-seletivo-candidatos" target="_blank">
             Criando Um Pequeno Sistema Para Validação de Processo Seletivo
         </a>
     </li>
     <br />
     <li>
-        <a src="./iphone-modeling-and-poo-java" target="_blank">
+        <a href="./iphone-modeling-and-poo-java" target="_blank">
             Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
         </a>
     </li>
