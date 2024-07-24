@@ -16,9 +16,9 @@
 
 <br />
 
-<h2>Lista de Projetos</h2>
+<h2>📑 Lista de Projetos</h2>
 
-<ul>
+<ul style="list-style-type:circle">
     <li>
         <a href="./simple-bank-account-java" target="_blank">
             Simulando Uma Conta Bancária Através Do Terminal/Console 
@@ -41,3 +41,22 @@
 </ul>
 
 <br />
+
+<h2>🔓 LICENÇA</h2>
+
+### 👉 [MIT](./LICENSE)
+
+_Uma licença permissiva curta e simples com condições que exigem apenas a preservação de direitos autorais e avisos de licença. Obras licenciadas, modificações e obras maiores podem ser distribuídas em termos diferentes e sem código-fonte._
+
+**Permissões** <br/>
+ ✔️ Uso comercial | 
+ ✔️ Modificação | 
+ ✔️ Distribuição | 
+ ✔️ Uso privado
+
+**Limitações** <br/>
+ ❌ Responsabilidade | 
+ ❌ Garantia
+
+**Condições** <br/>
+ ❗ Licença e aviso de direitos autorais
