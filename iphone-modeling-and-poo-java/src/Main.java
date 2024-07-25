@@ -4,11 +4,11 @@ public class Main {
     public static void main(String[] args) {
         iPhone iphone = new iPhone();
 
-        iphone.atender();
         iphone.ligar("99999 9999");
+        iphone.atender();
         iphone.iniciarCorreioVoz();
 
-        iphone.exibirPagina("");
+        iphone.exibirPagina("< Site >");
         iphone.adicionarNovaAba();
         iphone.atualizarPagina();
 
