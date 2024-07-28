@@ -16,7 +16,7 @@
 
 <br />
 
-<h2>📑 Lista de Projetos</h2>
+<h2>📑 LISTA DE PROJETOS</h2>
 
 <ul style="list-style-type:circle">
     <li>
@@ -37,7 +37,28 @@
         </a>
     </li>
     <br />
-    
+    <li>
+        <a href="./digital-bank-poo-java" target="_blank">
+            Criando um Banco Digital com Java e Orientação a Objetos
+        </a>
+    </li>
+</ul>
+
+<br/>
+
+<h2>🌟 FERRAMENTAS & TECNOLOGIAS</h2>
+
+<ul style="list-style-type:square">
+    <li>
+        <a href="https://docs.oracle.com/en/java/" target="_blank">
+            Java
+        </a>
+    </li>
+    <li>
+        <a href="https://www.jetbrains.com/idea/" target="_blank">
+            IntelliJ IDEA
+        </a>
+    </li>
 </ul>
 
 <br />
@@ -49,13 +70,13 @@
 _Uma licença permissiva curta e simples com condições que exigem apenas a preservação de direitos autorais e avisos de licença. Obras licenciadas, modificações e obras maiores podem ser distribuídas em termos diferentes e sem código-fonte._
 
 **Permissões** <br/>
- ✔️ Uso comercial | 
- ✔️ Modificação | 
- ✔️ Distribuição | 
+ ✔️ Uso comercial  : : :
+ ✔️ Modificação  : : :
+ ✔️ Distribuição  : : :
  ✔️ Uso privado
 
 **Limitações** <br/>
- ❌ Responsabilidade | 
+ ❌ Responsabilidade : : : 
  ❌ Garantia
 
 **Condições** <br/>
