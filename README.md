@@ -48,6 +48,12 @@
             Abstraindo um Bootcamp Usando Orientação a Objetos em Java
         </a>
     </li>
+    <br />
+    <li>
+        <a href="./design-patterns-java" target="_blank">
+            Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework
+        </a>
+    </li>
 </ul>
 
 <br/>
