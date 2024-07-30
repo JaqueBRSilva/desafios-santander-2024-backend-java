@@ -54,11 +54,17 @@
             Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework
         </a>
     </li>
+    <br />
+    <li>
+        <a href="./publishing-rest-api" target="_blank">
+            Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway
+        </a>
+    </li>
 </ul>
 
 <br/>
 
-<h2>🌟 FERRAMENTAS & TECNOLOGIAS</h2>
+<h2>🌟 FERRAMENTAS & TECNOLOGIAS USADAS</h2>
 
 <ul style="list-style-type:square">
     <li>
@@ -69,6 +75,11 @@
     <li>
         <a href="https://www.jetbrains.com/idea/" target="_blank">
             IntelliJ IDEA
+        </a>
+    </li>
+    <li>
+        <a href="https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.3.2&packaging=jar&jvmVersion=21&groupId=com.dio&artifactId=design-patterns-spring&name=design-patterns-spring&description=Algumas%20implementa%C3%A7%C3%B5es%20de%20Padr%C3%B5es%20de%20Projeto%20(Design%20Patterns)&packageName=com.dio.design-patterns-spring&dependencies=web,data-jpa,h2,cloud-feign" target="_blank">
+            Spring Boot
         </a>
     </li>
 </ul>
