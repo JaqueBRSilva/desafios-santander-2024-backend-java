@@ -1,3 +1,4 @@
+import DesignPatterns_Java.Facade.Facade;
 import DesignPatterns_Java.Singleton.SingletonEager;
 import DesignPatterns_Java.Singleton.SingletonLazy;
 import DesignPatterns_Java.Singleton.SingletonLazyHolder;
@@ -39,5 +40,10 @@ public class Main {
         robo.mover();
         robo.mover();
         robo.mover();
+
+        // Facade
+
+        Facade facade = new Facade();
+        facade.migrarCliente("Venilton", "14801788");
     }
 }
