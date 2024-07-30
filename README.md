@@ -50,7 +50,7 @@
     </li>
     <br />
     <li>
-        <a href="./design-patterns-java" target="_blank">
+        <a href="./design-patterns-java-and-spring" target="_blank">
             Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework
         </a>
     </li>
