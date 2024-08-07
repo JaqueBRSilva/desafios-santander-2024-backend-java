@@ -1,4 +1,4 @@
-package me.dio.publishing_rest_api.domain.model;
+package me.dio.domain.model;
 
 import jakarta.persistence.*;
 
