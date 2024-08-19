@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-    Repositório para organizar os <strong>Desafios de Projeto</strong> feito durante <a src="https://web.dio.me/track/santander-2024-backend-com-java" target="_blank">Bootcamp da DIO</a>.
+    Repositório para organizar os <strong>Desafios de Projeto</strong> feitos durante <a src="https://web.dio.me/track/santander-2024-backend-com-java" target="_blank">Bootcamp da DIO</a>.
 </p>
 
 <br />
@@ -66,6 +66,11 @@
 
 <h2>🌟 FERRAMENTAS & TECNOLOGIAS USADAS</h2>
 
+<h4>
+    Listado o que foi usado no decorrer dos cursos e projetos. <br />
+    A lista não significa, necessariamente, que todos os itens foram usados em todos os projetos.
+</h4>
+
 <ul style="list-style-type:square">
     <li>
         <a href="https://docs.oracle.com/en/java/" target="_blank">
@@ -78,8 +83,13 @@
         </a>
     </li>
     <li>
-        <a href="https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.3.2&packaging=jar&jvmVersion=21&groupId=com.dio&artifactId=design-patterns-spring&name=design-patterns-spring&description=Algumas%20implementa%C3%A7%C3%B5es%20de%20Padr%C3%B5es%20de%20Projeto%20(Design%20Patterns)&packageName=com.dio.design-patterns-spring&dependencies=web,data-jpa,h2,cloud-feign" target="_blank">
+        <a href="https://start.spring.io/" target="_blank">
             Spring Boot
+        </a>
+    </li>
+    <li>
+        <a href="https://railway.app?referralCode=XpQeQM" target="_blank">
+            Railway
         </a>
     </li>
 </ul>
@@ -93,13 +103,13 @@
 _Uma licença permissiva curta e simples com condições que exigem apenas a preservação de direitos autorais e avisos de licença. Obras licenciadas, modificações e obras maiores podem ser distribuídas em termos diferentes e sem código-fonte._
 
 **Permissões** <br/>
- ✔️ Uso comercial  : : :
- ✔️ Modificação  : : :
- ✔️ Distribuição  : : :
+ ✔️ Uso comercial : : 
+ ✔️ Modificação  : : 
+ ✔️ Distribuição  : :
  ✔️ Uso privado
 
 **Limitações** <br/>
- ❌ Responsabilidade : : : 
+ ❌ Responsabilidade : : 
  ❌ Garantia
 
 **Condições** <br/>
